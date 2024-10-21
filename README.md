@@ -29,7 +29,7 @@ El proyecto está organizado en varios módulos y recursos:
 
 1. Clone el repositorio:
    ```
-   https://github.com/grimoriodelhacker/villalva.git
+   git clone https://github.com/grimoriodelhacker/villalva.git
    ```
 2. Instale las dependencias:
    ```
@@ -43,7 +43,7 @@ El proyecto está organizado en varios módulos y recursos:
 
 1. Inicie el sistema de autenticación:
    ```
-   python login.py
+   python main.py
    ```
 2. Ingrese sus credenciales cuando se le solicite.
 3. Una vez autenticado, se le pedirá ingresar la IP objetivo para el escaneo.
