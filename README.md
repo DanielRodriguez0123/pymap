@@ -95,4 +95,6 @@ Agradecemos las contribuciones de la comunidad. Si desea contribuir:
 - Soporte para escaneos distribuidos en redes de gran escala.
 - Implementación de análisis de seguridad en la nube y contenedores.
 
+## NOTA
+Este proyeco necesita de una base de datos que cumpla su funcion como login.sql
 
